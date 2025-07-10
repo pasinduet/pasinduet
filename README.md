@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pasindu Theekshana</h1>
-<p align="center">🎓 Computer Science Student | 💡 Aspiring Entrepreneur <br>
-💻 Passionate about coding, learning, and building impactful tech <br>
-🌱 Currently exploring Java, Python, Web Development, and Linux <br>
-🚀 Always up for new challenges and real-world projects</p>
+<h3 align="center">🎓 Computer Science Student | 💡 Aspiring Entrepreneur </h3>
+<h5 align="center">💻 Passionate about coding, learning, and building impactful tech </h5>
+<h5 align="center">🌱 Currently exploring Java, Python, Web Development, and Linux </h5>
+<h5 align="center">🚀 Always up for new challenges and real-world projects </h5>
 
 <center>
 <p align="left"> <a href="https://twitter.com/pasinduet" target="blank"><img src="https://img.shields.io/twitter/follow/pasinduet?logo=twitter&style=for-the-badge" alt="pasinduet" /></a> </p>
