@@ -7,9 +7,6 @@
 <center>
 <p align="left"> <a href="https://twitter.com/pasinduet" target="blank"><img src="https://img.shields.io/twitter/follow/pasinduet?logo=twitter&style=for-the-badge" alt="pasinduet" /></a> </p>
 
-- 🌱 I’m currently learning **Java**
-
-- 💬 Ask me about **Python**
 
 - 📫 How to reach me **pasinduet@pm.me**
 
