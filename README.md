@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Theekshana</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://twitter.com/pasinduet" target="blank"><img src="https://img.shields.io/twitter/follow/pasinduet?logo=twitter&style=for-the-badge" alt="pasinduet" /></a> </p>
 
