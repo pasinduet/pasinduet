@@ -1,4 +1,6 @@
 # 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eptheekshana&label=Profile%20views&color=0e75b6&style=flat" alt="eptheekshana" /> </p>
+
 
 👋 Hi, I’m Pasindu Theekshana
 
